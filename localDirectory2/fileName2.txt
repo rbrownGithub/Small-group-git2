@@ -1,3 +1,4 @@
 git help Display the main help documentation, showing a list of commonly used Git commands
 git init Initialize a local Git repository
 git commit Creates a new commit with the changes in the staging area and opens the default text editor for adding a commit message.
+git pull Update local repository to the newest commit
